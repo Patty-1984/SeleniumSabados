@@ -1,2 +1,0 @@
-# SeleniumSabados
-Curso de Selenium
